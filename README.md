@@ -218,4 +218,4 @@ We're all prepared. Here we go! Click the video thumbnail to watch demo in youtu
 
 
 
-<img src="Docs/assets/score.png" height=200px> <img src="Docs/assets/youtube.png" href="https://youtu.be/o_1B-qBQATg" height="200px">
+<img src="Docs/assets/score.png" height=200px> <a href="https://youtu.be/o_1B-qBQATg"><img src="Docs/assets/youtube.png" height="200px">
